@@ -4,16 +4,16 @@
   <p><b>My step-by-step progress through Harvard University's Introduction to Programming with Python</b></p>
 
   <p>
-    <a href="https://cs50.harvard.edu/python/2022/"><img src="https://img.shields.io/badge/Course-Harvard%20CS50P-red?style=for-the-badge&logo=harvard" alt="Harvard CS50P"></a>
-    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Language-Python%203.x-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
-    <img src="https://img.shields.io/badge/Status-Active%20Learner-brightgreen?style=for-the-badge" alt="Status">
+    <a href="https://cs50.harvard.edu/python/2022/"><img src="https://img.shields.io/badge/Course-Harvard%20CS50P-A855F7?style=for-the-badge&logo=harvard&logoColor=white" alt="Harvard CS50P"></a>
+    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Language-Python%203.x-C084FC?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+    <img src="https://img.shields.io/badge/Status-Active%20Learner-E9D5FF?style=for-the-badge&labelColor=A855F7&color=E9D5FF" alt="Status">
   </p>
 
 </div>
 
 ---
 
-### 💡 About This Repository
+### 💜 About This Showcase
 
 This repository documents my structured learning journey, notes, and progress as I complete **Harvard University's CS50P** course. It demonstrates my commitment to mastering fundamental computer science principles, computational thinking, and software development in Python.
 
@@ -38,14 +38,17 @@ This repository documents my structured learning journey, notes, and progress as
 
 ---
 
-### 🛠️ Environment & Tools Used
+### 🛠️ Environment & Tools
 
-- **Code Editor:** Visual Studio Code / CS50 Codespace
-- **Version Control:** Git & GitHub
-- **Primary Language:** Python 3.x
+<p align="center">
+  <a href="https://www.python.org/"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="45" height="45" /></a>&nbsp;&nbsp;
+  <a href="https://code.visualstudio.com/"><img src="https://techstack-generator.vercel.app/vscode-icon.svg" alt="VS Code" width="45" height="45" /></a>&nbsp;&nbsp;
+  <a href="https://git-scm.com/"><img src="https://techstack-generator.vercel.app/git-icon.svg" alt="Git" width="45" height="45" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="45" height="45" /></a>
+</p>
 
 ---
 
 <div align="center">
-  <sub>Built with determination by <b>Briant242(Jeryco Fabriant)</b> 🚀</sub>
+  <sub>Built with 💜 by <b>Jeryco</b> 🚀</sub>
 </div>
