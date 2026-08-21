@@ -47,5 +47,5 @@ This repository documents my structured learning journey, notes, and progress as
 ---
 
 <div align="center">
-  <sub>Built with determination by <b>Briant</b> 🚀</sub>
+  <sub>Built with determination by <b>Briant242(Jeryco Fabriant)</b> 🚀</sub>
 </div>
