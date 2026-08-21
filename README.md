@@ -25,8 +25,8 @@ This repository documents my structured learning journey, notes, and progress as
 
 | Week | Topic | Status | Key Concepts Covered |
 | :---: | :--- | :---: | :--- |
-| **0** | **Functions, Variables** | 🔄 *In Progress* | `print()`, inputs, string manipulation, custom functions |
-| **1** | **Conditionals** | ⏳ *Upcoming* | `if / elif / else`, match statements, boolean logic |
+| **0** | **Functions, Variables** | ✅ *Completed* | `print()`, inputs, string manipulation, custom functions |
+| **1** | **Conditionals** | 🔄 *In Progress* | `if / elif / else`, match statements, boolean logic |
 | **2** | **Loops** | ⏳ *Upcoming* | `while` loops, `for` loops, lists, dictionaries |
 | **3** | **Exceptions** | ⏳ *Upcoming* | `try / except`, runtime error handling, input validation |
 | **4** | **Libraries** | ⏳ *Upcoming* | Built-in modules, `random`, `sys`, third-party packages (`pip`) |
