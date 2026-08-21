@@ -1,11 +1,15 @@
 def main():
-    word = input("Hi there user what you wanna say? ")
-    print(convert(word))
+    text = input()
+    result = convert(text)
+    print(result)
 
-def convert(target):
-    return target.capitalize().replace(":)", "🙂").replace(":(", "🙁")
+def convert(text):
+    text = text.replace(":)", "🙂")
+    text = text.replace(":(", "🙁")
+    return text
 
-main()
+if __name__ == "__main__":
+    main()
 
 """
 I LOVE KHEICZEL LORICA SOMEDAY I'LL MET HER!
